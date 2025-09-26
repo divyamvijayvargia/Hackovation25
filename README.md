@@ -1,28 +1,63 @@
-# Welcome to Hackovation2k25
+# Hackovation: Competition Rules & Git Workflow Guidelines
 
-Hackovation: Competition Rules & Git Workflow Guidelines
-To ensure a fair and organized event, all participating teams are required to follow the code submission. 
+Welcome to **Hackovation** 🎉
+To ensure a fair and organized event, all participating teams must strictly follow the code submission rules and Git workflow guidelines provided below.
 
+---
 
+## 📝 Competition Rules
 
-Rule 1: 
-Each team must push all code exclusively to their own assigned private repository. Pushing to another team's repository will result in immediate disqualification.
+**Rule 1:**
 
+* Each team must **push all code exclusively to their own assigned private repository**.
+* Pushing to another team's repository will result in **immediate disqualification**.
 
-For your help:
-I. Clone Your own Repository:
-git clone <your-repository-url-goes-here>  -->This is the command for the same
+---
 
+## ⚙️ Git Workflow Guidelines
 
-II. Submit Your Code
-To save and submit your work, run these three commands from your project folder. 
+### 1. Clone Your Repository
 
-- git add .
+Use the command below to clone your assigned repository (replace with your repository URL):
 
-make sure to commit the messages clean and understandable
-- git commit -m "Your descriptive message about the changes"
+```bash
+git clone <your-repository-url-goes-here>
+```
 
-- git push origin main
+---
 
+### 2. Submit Your Code
 
+To save and submit your work, run the following commands from your project folder:
 
+```bash
+# Stage all changes
+git add .
+
+# Commit changes with a clear and descriptive message
+git commit -m "Your descriptive message about the changes"
+
+# Push changes to the main branch
+git push origin main
+```
+
+✅ **Important Notes:**
+
+* Always write **clean and meaningful commit messages**.
+* Do **not** push code to repositories other than your own team’s.
+
+---
+
+## 🚀 Best Practices
+
+* Push your work **regularly** to avoid last-minute issues.
+* Ensure your repository is well-organized with proper folder structure and documentation.
+* Resolve merge conflicts responsibly within your team.
+
+---
+
+## 📌 Reminder
+
+Failure to follow these rules or attempting to interfere with another team’s repository will lead to **disqualification**.
+
+---
