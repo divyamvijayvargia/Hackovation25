@@ -1,4 +1,4 @@
-# Hackovation2k25
+# Welcome to Hackovation2k25
 
 Hackovation: Competition Rules & Git Workflow Guidelines
 To ensure a fair and organized event, all participating teams are required to follow the code submission. 
